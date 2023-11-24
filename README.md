@@ -1,17 +1,21 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+Test correlations between variables and determine relationship between them if sufficient for modeling.
 
 ## Process
-### (your step 1)
-### (your step 2)
+Connect to Api
+Parse APi and arrange into dataframes
+returning dataframes and columns to prepare for model
+correlation tests
+model output
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+The results of the api's were insufficient in determing a strong relationship between the api's.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+I found navigating through dictionaries a little challenging this project
 
 ## Future Goals
-(what would you do if you had more time?)
+Do more regression analysis on the variables and see if there if there is any possible 
+determing number of bikes to high rated restaurants
